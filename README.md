@@ -403,7 +403,6 @@ https://github.com/sai-uel/text-to-kg-construction-slm
 - Extend the ontology to support additional relation types and entity classes
 - Train on contracts from multiple countries and legal systems to improve generalization
 - Introduce data augmentation to increase dataset diversity
-- Evaluate on real-world contract documents with more complex and varied language
 - Deploy as a persistent API service for continuous use without session expiry
 
 ---
