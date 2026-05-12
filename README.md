@@ -29,6 +29,7 @@ The final system takes a UK construction contract description as input and gener
 ## Project Overview
 
 **Domain:** UK Public Procurement / Construction Contracts
+**Datasource Link:** https://data.open-contracting.org/en/
 
 The UK construction procurement domain was selected because it contains highly structured award information published by public authorities, making it ideal for ontology modeling and knowledge graph extraction.
 
