@@ -31,7 +31,6 @@
 - [Gradio Interface](#-gradio-interface)
 - [HuggingFace Links](#-huggingface-links)
 - [Project Team](#-project-team)
-- [Citation](#-citation)
 
 ---
 
@@ -816,31 +815,9 @@ pip install transformers==4.45.0
 | Emmanuel Enotobore | Demo & Integration Lead |
 
 **Line Manager:** Ugur Acar, Chief AI Officer, Depixen  
-**Supervisor:** Yalcin, Depixen  
+**Supervisor:** Yalcin Cenik,AI Engineer, Depixen  
 **Placement Lead:** Dr Ali Abbas, University of East London  
 **Placement Period:** 26 January – 20 May 2026
-
----
-
-## 📖 Citation
-
-If you use this work, model, dataset or hallucination evaluation framework in your research, please cite:
-
-```bibtex
-@misc{bubathula2026text2kg,
-  author       = {Bubathula, Sai Venkata Gopala Krishna and
-                  Ekerete, Keremfon and
-                  Mensah, Anthony and
-                  Yemineni, Poojitha and
-                  Enotobore, Emmanuel},
-  title        = {Text-to-KG SLM: Fine-Tuning Phi-3.5 Mini and Gemma 2 on Verified
-                  UK Procurement Data for Zero-Hallucination Knowledge Graph Extraction},
-  year         = {2026},
-  institution  = {University of East London / Depixen},
-  url          = {https://github.com/sai-uel/text-to-kg-construction-slm},
-  note         = {Industrial Placement Project, MSc Big Data Technologies}
-}
-```
 
 ---
 
